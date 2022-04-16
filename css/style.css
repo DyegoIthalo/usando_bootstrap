@@ -1,0 +1,34 @@
+body {
+  font: 20px arial, sans-serif;
+}
+.navbar {
+  background-color: #87ceeb;
+}
+
+.quem-somos {
+  background-color: #d5f3ff;
+}
+
+.margin {
+  padding-top: 10px;
+  padding-bottom: 30px;
+}
+
+.img-time,
+.img-app,
+.img-serv,
+.img-serv1 {
+  border-radius: 3px;
+}
+
+.servicos {
+  background-color: #d5f3ff;
+}
+
+.p {
+  padding-top: 20px;
+}
+
+.bg-footer {
+  background-color: #87ceeb;
+}
